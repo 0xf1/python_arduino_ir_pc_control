@@ -78,14 +78,14 @@ keys = [["2256078599", "smart tv - windows+tab", win_tab, ""],
         ["2473330439", "A - alt", alt_press, ""],
         # ["3943958279", "B - left control", control_pressed, ""],
         ["3927246599", "C - left control", control_press, ""],
-        # ["3910534919", "D - page down", push, 0x22],
+        ["3910534919", "D - F key", push, 0x46], # usefull for youtube to swith fullscreen mode
         ["3074950919", ">> btn - tab", push, 0x09],
 
         ["3977381639", "channel up - page up", push, 0x21],
         ["4010804999", "channel down - page down", push, 0x22],
 
-        ["4094363399", "volume up", push, 0xAF],
-        ["4161210119", "volume down", push, 0xAE],
+        ["4094363399", "volume up", push, 0xAE],
+        ["4161210119", "volume down", push, 0xAF],
         ["4027516679", "mute", push, 0xAD],
 
         ["4211345159", "1 - F1", push, 0x70],
